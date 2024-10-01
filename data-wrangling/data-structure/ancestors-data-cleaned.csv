@@ -1,0 +1,41 @@
+person_id,first_name,last_name,sex,living,mother_id,father_id,spouse_id,birth_day,birth_month,birth_year,marriage_day,marriage_month,marriage_year,death_day,death_month,death_year,birth_city,birth_state,birth_country,marriage_city,marriage_state,marriage_country,death_city,death_state,death_country
+A-012,Joseph,Johnson,M,Deceased,,,A-011,10,2,1758,8,5,1786,24,8,1804,Huntingdon,Cambridgeshire,England,Duxford,Cambridgeshire,England,Duxford,Cambridgeshire,England
+A-016,Christopher,Wallace,M,Deceased,,,A-015,30,10,1744,7,12,1770,20,6,1838,Buntingford,Hertfordshire,England,Layson,Hertfordshire,England,Rampton,Cambridgeshire,England
+A-023,Estella,Paige,F,Deceased,A-013,A-014,A-024,12,6,1789,21,2,1816,20,6,1855,Gainsborough,Lincolnshire,England,Rampton,Cambridgeshire,England,Atchison,Kansas Territory,United States of America
+A-028,Isaac,Wallace,M,Deceased,A-023,A-024,A-027,21,1,1829,4,4,1853,12,12,1904,Reed,Hertfordshire,England,Salt Lake City,Utah,United States of America,Saint George,Utah,United States of America
+A-029,Martina,Krauss,F,Deceased,A-025,A-026,A-030,3,4,1860,30,3,1878,7,1,1951,Bolligen,Bern,Switzerland,Saint George,Utah,United States of America,Waterflow,New Mexico,United States of America
+A-027,Matilda,Johnson,F,Deceased,A-021,A-022,A-028,16,12,1826,4,4,1853,26,12,1914,Duxford,Cambridgeshire,England,Salt Lake City,Utah,United States of America,Saint George,Utah,United States of America
+A-030,Steven,Wallace,M,Deceased,A-027,A-028,A-029,11,1,1855,30,3,1878,12,8,1921,Salt Lake City,Utah,United States of America,Saint George,Utah,United States of America,Waterflow,New Mexico,United States of America
+A-005,Olivia,Hofer,F,Deceased,,,A-006,27,3,1778,18,6,1796,10,5,1811,Hasle bei Burgdorf,Bern,Switzerland,Grosshochstetten,Bern,Switzerland,Hasle be Burgdorf,Bern,Switzerland
+A-017,Claudia,Levi,F,Deceased,A-001,A-002,A-018,6,4,1787,28,7,1810,24,1,1846,Bolligen,Bern,Switzerland,Lutzelfuh,Bern,Switzerland,Vechigen,Bern,Switzerland
+A-009,Amelia,Carter,F,Deceased,,,A-011,22,12,1769,1,1,1794,3,2,1842,Great Shelford,Cambridgeshire,England,Chesterson,Cambridgeshire,England,Chesterson,Cambridgeshire,England
+A-010,George,Peters,M,Deceased,,,A-010,22,3,1760,1,1,1794,2,2,1843,Great Shelford,Cambridgeshire,England,Chesterson,Cambridgeshire,England,Chesterson,Cambridgeshire,England
+A-011,Sarah,Hodges,F,Deceased,,,A-012,21,6,1765,8,5,1786,10,7,1844,Ickleton,Cambridgeshire,England,Duxford,Cambridgeshire,England,Duxford,Cambridgeshire,England
+A-013,Mary,Turner,F,Deceased,,,A-014,25,2,1762,7,6,1785,26,11,1858,Grantham,Lincolnshire,England,Gainsborough,Lincolnshire,England,Rampton,Cambridgeshire,England
+A-014,James,Paige,M,Deceased,,,A-013,4,11,1763,7,6,1785,26,10,1838,Stubton,Lincolnshire,England,Gainsborough,Lincolnshire,England,Rampton,Cambridgeshire,England
+A-022,James,Johnson,M,Deceased,A-011,A-012,A-021,14,12,1804,21,11,1825,28,12,1891,Duxford,Cambridgeshire,England,Andover,Hampshire,England,Wallington,Hertfordshire,England
+A-015,Isabelle,Dodler,F,Deceased,,,A-016,6,4,1753,7,12,1770,4,1,1799,Layson,Hertfordshire,England,Layson,Hertfordshire,England,Buntingford,Hertfordshire,England
+A-004,Eliott,Bigler,M,Deceased,,,A-003,13,1,1763,11,2,1786,6,12,1846,Vechigen,Bern,Switzerland,Vechigen,Bern,Switzerland,Vechigen,Bern,Switzerland
+A-006,Gabriel,Zybach,M,Deceased,,,A-005,16,12,1757,18,6,1796,9,6,1833,Worb,Bern,Switzerland,Grosshochstetten,Bern,Switzerland,Vechigen,Bern,Switzerland
+A-018,Tobias,Bigler,M,Deceased,A-003,A-004,A-017,26,8,1787,28,7,1810,26,10,1865,Vechigen,Bern,Switzerland,Lutzelfuh,Bern,Switzerland,Ruegsau,Bern,Switzerland
+A-025,Hannah,Bigler,F,Deceased,A-017,A-018,A-026,28,2,1823,2,11,1845,29,7,1896,Worb,Bern,Switzerland,Vechigen,Bern,Switzerland,Saint George,Utah,United States of America
+A-026,Franczi,Krauss,M,Deceased,A-019,A-020,A-025,31,7,1818,2,11,1845,18,3,1897,Vechigen,Bern,Switzerland,Vechigen,Bern,Switzerland,Saint George,Utah,United States of America
+A-001,Sophie,Gosteli,F,Deceased,,,A-002,6,6,1755,8,5,1779,30,7,1805,Bolligen,Bern,Switzerland,Bolligen,Bern,Switzerland,Bolligen,Bern,Switzerland
+A-002,Neil,Levi,M,Deceased,,,A-001,27,12,1756,8,5,1779,3,6,1820,Bolligen,Bern,Switzerland,Bolligen,Bern,Switzerland,Bolligen,Bern,Switzerland
+A-019,Silvia,Zybach,F,Deceased,A-005,A-006,A-020,29,11,1798,18,9,1816,16,5,1867,Hasle bei Burgdorf,Bern,Switzerland,Bern,Bern,Switzerland,Vechigen,Bern,Switzerland
+A-020,Linus,Krauss,M,Deceased,A-007,A-008,A-019,16,11,1787,18,9,1816,4,6,1876,Vechigen,Bern,Switzerland,Bern,Bern,Switzerland,Vechigen,Bern,Switzerland
+A-003,Anneli,Iseli,F,Deceased,,,A-004,7,2,1764,11,2,1786,10,11,1829,Hasle,Bern,Switzerland,Vechigen,Bern,Switzerland,Worb,Bern,Switzerland
+A-007,Janna,Maier,F,Deceased,,,A-008,10,11,1758,12,8,1782,13,10,1828,Hasle,Bern,Switzerland,Trachselwald,Bern,Switzerland,Dieboldshausen,Bern,Switzerland
+A-008,Hugo,Krauss,M,Deceased,,,A-007,26,3,1760,12,8,1782,6,3,1798,Weitenboden,Bern,Switzerland,Trachselwald,Bern,Switzerland,Toulouse,Haute-Garonne,France
+A-031,Wendy,Dunn,F,Deceased,A-039,A-040,A-032,27,9,1885,9,10,1914,2,7,1980,Central,Arizona,United States of America,Salt Lake City,Utah,United States of America,Eager,Arizona,United States of America
+A-032,Jacob,Wallace,M,Deceased,A-029,A-030,A-031,2,7,1890,9,10,1914,11,6,1980,Pine,Arizona Territory,United States of America,Salt Lake City,Utah,United States of America,Phoenix,Arizona,United States of America
+A-041,Ayda,Greig,F,Deceased,,,A-042,3,1,1832,12,12,1851,5,11,1919,Brechin,Angus,Scotland,Abroath,Angus,Scotland,Brechin,Angus,Scotland
+A-042,Aiden,Dunn,M,Deceased,,,A-041,18,11,1831,12,12,1851,21,6,1912,Letham,Angus,Scotland,Abroath,Angus,Scotland,Letham,Angus,Scotland
+A-043,Samira,Gupta,F,Deceased,,,A-044,6,4,1830,7,7,1850,24,12,1910,Avagarh,Pradesh,India,Avagarh,Pradesh,India,Avagarh,Pradesh,India
+A-044,Vikram,Mandal,M,Deceased,,,A-043,22,9,1829,7,7,1850,8,7,1887,Shamli,Pradesh,India,Avagarh,Pradesh,India,Shamli,Pradesh,India
+A-038,Joseph,Wallace,M,Deceased,A-031,A-032,A-037,2,3,1916,28,6,1938,5,3,1998,Eager,Arizona,United States of America,Mesa,Arizona,United States of America,Mesquite,Nevada,United States of America
+A-037,Amy,Thompson,F,Deceased,,,A-038,30,5,1918,28,6,1938,2,3,1999,Phoenix,Arizona,United States of America,Mesa,Arizona,United States of America,Mesquite,Nevada,United States of America
+A-039,Fatima,Mandal,F,Deceased,A-043,A-044,A-040,12,10,1855,5,4,1877,31,1,1946,Avagarh,Pradesh,India,London,Greater London,England,Central,Arizona,United States of America
+A-040,Lyle,Dunn,M,Deceased,A-041,A-042,A-039,2,1,1853,5,4,1877,11,11,1943,Brechin,Angus,Scotland,London,Greater London,England,Central,Arizona,United States of America
+A-021,Lilly,Peters,F,Deceased,A-009,A-010,A-022,22,7,1808,21,11,1825,9,9,1886,Great Shelford,Cambridgeshire,England,Andover,Hampshire,England,Duxford,Cambridgeshire,England
+A-024,Lawrence,Wallace,M,Deceased,A-015,A-016,A-023,30,4,1775,21,2,1816,22,6,1855,Buckland,Hertfordshire,England,Rampton,Cambridgeshire,England,Atchison,Kansas Territory,United States of America

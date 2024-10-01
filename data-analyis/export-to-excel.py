@@ -10,9 +10,9 @@ Author: Mark Bahr
 import psycopg2
 import pandas as pd
 
-# Create connection to family_hstory database
+# Create connection to family_hstory database, change the connect info when ready
 # sytax follows: engine = create_engine("postgres+psycopg2://dbname:password@localhost:port/database
-conn = psycopg2.connect("dbname=family_history user=postgres password=12345")
+conn = psycopg2.connect("dbname=dbname user=postgres password=password")
 
 # Crate the cursor object
 cur = conn.cursor
@@ -29,7 +29,8 @@ fam_hist_query = pd.read_sql_query('''
 df_fam_hist = pd.DataFrame(fam_hist_query)
 
 # Export the dataframe to a csv file
-df_fam_hist.to_csv(r"C\Users\Public\data\fam_hist.csv", index = False)
+# Change the path when ready to export
+df_fam_hist.to_csv(r"C\Users\Path-necessary...\fam_hist.csv", index = False)
 
 # Commit changes to database
 conn.commit()
