@@ -2,15 +2,8 @@
     Author: Mark Bahr
     Project: Family History PostgreSQL Database
     Tasks: Use PostgreSQL to import raw data by
-        - Creating a database for family history data. 
         - Importing data using simple CREATE TABLE and COPY statements.
 */
-
---------------------------------------------------------------------
-/*	                Create Database	  	                  */
---------------------------------------------------------------------
--- Create databse for Family History Data
-CREATE DATABASE family_history;
 
 --------------------------------------------------------------------
 /*	           Drop Table  		 	                  */
