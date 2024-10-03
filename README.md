@@ -11,6 +11,9 @@ The project folders follow the following format:
 
 #### Data Analysis
 
+- Analyze the data by finding summary statistics, and trends.
+- Gain the answers to important or interesting questions. For example, which country is home for the greatest number of your ancestors? Even getting simple answers from data that is organized into separate tables can require complex joins and subqueries. For example, one of the most complex queries I wrote so far is the query that returns a list of the names of a each ancestor's along with the names of their parents and grandparents.
+
 #### Data Visualization
 
 #### Presenting Results
